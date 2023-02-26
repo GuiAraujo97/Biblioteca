@@ -1,0 +1,106 @@
+{
+  "livros": [
+    {
+      "titulo": "O HOBBIT",
+      "autor": "J.R.R. Tolkien",
+      "ano": 1937,
+      "local": "C7"
+    },
+    {
+      "titulo": "A SOCIEDADE DO ANEL",
+      "autor": "J.R.R. Tolkien",
+      "ano": 1954,
+      "local": "C7"
+    },
+    {
+      "titulo": "O SILMARILLION",
+      "autor": "J.R.R. Tolkien",
+      "ano": 1977,
+      "local": "C7"
+    },
+    {
+      "titulo": "HARRY POTTER E A PEDRA FILOSOFAL",
+      "autor": "J.K. Rowling",
+      "ano": 1997,
+      "local": "C2"
+    },
+    {
+      "titulo": "HARRY POTTER E A CAMARA SECRETA",
+      "autor": "J.K. Rowling",
+      "ano": 1998,
+      "local": "C2"
+    },
+    {
+      "titulo": "HARRY POTTER E O PRISIONEIRO DE ASKABAN",
+      "autor": "J.K. Rowling",
+      "ano": 1999,
+      "local": "C3"
+    },
+    {
+      "titulo": "DOM CASMURRO",
+      "autor": "Machado de Assis",
+      "ano": 1899,
+      "local": "H9"
+    },
+    {
+      "titulo": "O CORTICO",
+      "autor": "Aluísio Azevedo",
+      "ano": 1890,
+      "local": "H10"
+    },
+    {
+      "titulo": "VIDAS SECAS",
+      "autor": "Graciliano Ramos",
+      "ano": 1938,
+      "local": "G6"
+    },
+    {
+      "titulo": "A TALE OF TWO CITIES",
+      "autor": "Charles Dickens",
+      "ano": 1859,
+      "local": "E13"
+    },
+    {
+      "titulo": "TO KILL A MOCKINGBIRD",
+      "autor": "Harper Lee",
+      "ano": 1960,
+      "local": "D45"
+    },
+    {
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "ano": 1949,
+      "local": "H22"
+    },
+    {
+      "titulo": "THE GREAT GATSBY",
+      "autor": "F. Scott Fitzgerald",
+      "ano": 1925,
+      "local": "K78"
+    },
+    {
+      "titulo": "ONE HUNDRED YEARS OF SOLITUDE",
+      "autor": "Gabriel García Márquez",
+      "ano": 1967,
+      "local": "M15"
+    },
+    {
+      "titulo": "PRIDE AND PREJUDICE",
+      "autor": "Jane Austen",
+      "ano": 1813,
+      "local": "B33"
+    },
+    {
+      "titulo": "TO THE LIGHTHOUSE",
+      "autor": "Virginia Woolf",
+      "ano": 1927,
+      "local": "J88"
+    },
+    {
+      "titulo": "MIDDLEMARCH",
+      "autor": "George Eliot",
+      "ano": 1871,
+      "local": "H23"
+    }
+  ]
+}

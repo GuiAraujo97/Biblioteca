@@ -14,7 +14,7 @@ def formatar_pesquisa(pesquisa):
 
 
 # Pergunta ao usuário qual livro ele deseja consultar ou encontrar na biblioteca
-titulo = input('Qual livro você deseja consultar ou encontrar a localização? ')
+titulo = input('Qual livro você deseja consultar ou encontrar a localização?: ')
 
 # Busca o livro na base de dados da biblioteca (JSON)
 for livro in biblioteca['livros']:
